@@ -15,8 +15,22 @@ This dataset contains 2126 records of features extracted from Cardiotocogram exa
 Normal
 Suspect
 Pathological
+
 How to use
 Create a multiclass model to classify CTG features into the three fetal health states.
+
+It is a Classification Task.
+
+Algorithms & Techniques Used:- Principle Component Analysis (PCA)
+
+KNN,
+
+Random Forest Classifier,
+
+Support Vector Machine (SVM)
+
+Logistic Regresiion
+
 Acknowledgements
 If refering the task for research or project purpose then do provide credit to the author.
 
