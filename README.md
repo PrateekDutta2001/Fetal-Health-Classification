@@ -18,18 +18,7 @@ Pathological
 How to use
 Create a multiclass model to classify CTG features into the three fetal health states.
 Acknowledgements
-If you use this dataset in your research, please credit the authors.
+If refering the task for research or project purpose then do provide credit to the author.
 
 Citation
-Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 (link)
-
-License
-License was not specified at the source, yet access to the data is public and a citation was requested.
-
-Splash banner
-Photo by Aditya Romansa on Unsplash
-
-Splash icon
-Icon by Freepik available on Flaticon.
-
-More Datasets
+Prateek Dutta, Author/Research Scholar, 2022_Fetal Health Classification.
